@@ -1,0 +1,9 @@
+/.vs
+/JWT1/*.user
+/JWT1/bin
+/JWT1/obj
+/Test/bin
+/Test/obj
+/API-Auth0/bin
+/API-Auth0/obj
+/API-Auth0/*.user
