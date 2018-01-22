@@ -73,7 +73,7 @@ namespace Test
         }
 
         [Fact]
-        public async Task GetBooksWithoutAgeRestrictions()
+        public async Task GetBooks()
         {
             var token = await GetToken();
 

@@ -13,7 +13,6 @@ namespace APIAuth0.Controllers
         [HttpGet, Authorize]
         public IEnumerable<Book> Get()
         {
-            var currentUser = HttpContext.User;
             var resultBookList = new Book[] {
                 new Book { Author = "Ray Bradbury", Title = "Fahrenheit 451", AgeRestriction = false },
                 new Book { Author = "Gabriel García Márquez", Title = "One Hundred years of Solitude", AgeRestriction = false },
