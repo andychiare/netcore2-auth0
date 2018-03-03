@@ -1,5 +1,5 @@
 # netcore2-Auth0
-This is a .NET Core 2 sample project showing how to secure Web APIs access by using Auth0 services.
+This is a .NET Core 2 sample project showing how to secure Web APIs access by using Auth0 services. It is the companion code for the article [Developing Web Apps with ASP.NET Core 2.0 and React - Part 1](https://auth0.com/blog/developing-web-apps-with-asp-dot-net-core-2-dot-0-and-react-part-1/).
 
 The project defines a Web API application whose authorization is based on Auth0 authorization services.
 
